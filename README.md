@@ -1,6 +1,5 @@
 # PCB-marker
 jp pcb design contest entries open source warehouse.
-# PCB-marker
 ![黑色沉金效果渲染图](https://user-images.githubusercontent.com/63218593/122189712-bd9c1700-cec3-11eb-8d5e-5a8eb9636ecc.jpg)
 
 #### Description
